@@ -35,6 +35,9 @@ build-iPhoneSimulator/
 /doc/
 /rdoc/
 
+# Node modules
+**/node_modules/
+
 ## Environment normalization:
 /.bundle/
 /vendor/bundle
